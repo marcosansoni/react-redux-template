@@ -1,2 +1,2 @@
-# react-redux-storybook-template
+# react-redux-template
 Template for React - Redux application
